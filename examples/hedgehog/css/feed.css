@@ -43,13 +43,13 @@ div.hedgehog, div.sheep {
 }
 
 div.hedgehog {
-    left: 5%;
-    top: 5%;
+    left: 2%;
+    top: 2%;
 }
 
 div.sheep {
     left: 40%;
-    top: 55%;
+    top: 45%;
 }
 
 div.sheep div.image {
@@ -67,7 +67,7 @@ div.bubble {
 }
 
 div.sheep div.bubble {
-    bottom: 15%;
+    bottom: 20%;
 }
 
 div.food {
